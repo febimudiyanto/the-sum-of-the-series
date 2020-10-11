@@ -1,3 +1,3 @@
-# proyek-made
+#The sum of the series of reciprocals of the cubic polynomials
 
-proyek ini adalah proyek matlab made bernilai 150k
+this project just remake script 'The sum of the series of reciprocals of the cubic polynomials' from R language to Matlab (m) language.
